@@ -1,0 +1,1 @@
+Seung-Jun Chu and Kyung-Min Kim, "Analysis of Determinants of 5 Major Crimes in Seoul using Spatial Big Data," Journal of the Korea Institute of Information and Communication Engineering, vol. 28, no. 4, pp. 369-378, 2024, doi: 10.6109/jkiice.2024.28.4.369
